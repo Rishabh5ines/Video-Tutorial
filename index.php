@@ -1,4 +1,4 @@
-<<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8" />
@@ -10,7 +10,7 @@
 </head>
 <body>
     <section>
-    <h1>The projects</h1>
+    <h1>The projects changed</h1>
     </section>
 </body>
 </html>
