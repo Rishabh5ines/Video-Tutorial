@@ -10,7 +10,7 @@
 </head>
 <body>
     <section>
-    <h1The page is error></h1>
+    <h1>The projects</h1>
     </section>
 </body>
 </html>
